@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+#Helpful commands
+* rails new appname
+* rails s ->start server
+* lsof -i :3000
+* kill -quit pid#
+* rails generate controller Home(controller) index(view)
